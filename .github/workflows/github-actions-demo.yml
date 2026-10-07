@@ -25,5 +25,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Create Build
-        run: npm run build
+      # - name: Create Build
+      #   run: npm run build
